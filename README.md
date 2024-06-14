@@ -7,7 +7,7 @@
 
 [LinuxGSM](https://linuxgsm.com) is the command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 
-> This docker container is under development is subject to significant change and not considured stable.
+> This docker container is under development is subject to significant change and not considered stable.
 
 A dockerised version of LinuxGSM https://linuxgsm.com
 
